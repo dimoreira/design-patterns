@@ -1,0 +1,4 @@
+## Strategy Pattern
+
+Define a family of algorithms, encapsulate each one, and make them interchangeable. Let's the algorithm vary indenpendently from clients that use it.
+

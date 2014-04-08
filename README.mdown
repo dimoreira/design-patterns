@@ -1,0 +1,12 @@
+## Programming Design Patterns
+
+A list of common design patterns and some basic implementations for study.
+
+I'm looking for pull requests related to common design patterns and examples of better organization of code.
+
+## Contributions
+
+If you would like to contribute, please follow the guidelines:
+
+- Directory names are undercased and separated by underscores (example: singleton_pattern)
+- Each pattern directory must have and README file with the *mdown* extension explaining a bit about the pattern and a folder with language name (examples: javascript, ruby) with a code example.
